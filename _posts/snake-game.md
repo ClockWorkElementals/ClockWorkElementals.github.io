@@ -17,4 +17,5 @@ Using TheCodingTrain's Snake Game as a base, I followed the tutorial to give mys
 The game itself is in need of an overhaul (something I plan to do now that I've had a Game Programming course) but I'm proud of this project because it was my first major project outside of LeetCode style questions or school work. I'm also proud of myself for deliberately challenging myself to build skills I want to posess even if using them is painful for me.
 
 You can find The Coding Train's snake game here : https://thecodingtrain.com/challenges/3-snake-game
+
 My code is stored here: https://github.com/ClockWorkElementals/javascript-snake-side-project/tree/main
