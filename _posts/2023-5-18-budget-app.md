@@ -7,7 +7,7 @@ Over the course of 5 months, my Application Development course simulated an Agil
 
 The end product?
 
-[Final Budget App](./../images/YourNameBudgetApp.png)
+![Final Budget App](./../images/YourNameBudgetApp.png)
 
 While the process wasn't without it's issues, our group did incredibly well all things considered. We incorporated nearly all the optional features that provided ease of use and the Windows 11 style forms, along with all the customization that comes with their colors, was something I worked at length to incorporate into the project. An incredible amount of effort went into this project, and I'm thankful for my teammates because the biggest skill learned through the course was working alongside them. Personally, this project was in my comfort zone with C#, so I expanded my knowledge with the customization and upholding good Github and JIRA practices.
 
