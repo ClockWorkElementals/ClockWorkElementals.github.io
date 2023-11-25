@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Hi! I'm Mel Hynes!
 permalink: /about/
 ---
-
-# Hi! I'm Mel Hynes!
 
 I'm a 21 year old Canadian in my final year of studying Computer Science. These pages serve as a sneak peak of some of the work I've done throughout my studies. I consider myself a strong enough programmer with a highly generalized skillset when it comes to code. I've picked up and experimented with a variety of programming languages, including:
 
