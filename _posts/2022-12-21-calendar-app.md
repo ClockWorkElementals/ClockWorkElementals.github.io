@@ -13,3 +13,5 @@ Moreover, this project was done in pairs, which added some extra complexity arou
 ![Rubber Duckies Calendar App](./../images/RubberDuckiesCalendarApp.png)
 
 I learned some incredible skills, the one I'm most proud of being the JSOHN serialization to save and load calendars, something we hadn't learned at all and something I was able to develop in a few hours. I also learned som valuable lessons regarding how important communication between front and back end is needed. I went into the project worried that one of us would step on the other's toes while working to try and force connections between the front and back, but since we were working asynchronously, we prioritized communication and because of that, we never ran into an issue on that front.
+
+You can find a copy of our work [here](https://github.com/ClockWorkElementals/rubber-duckies-calendar-app)
